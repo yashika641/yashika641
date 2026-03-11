@@ -33,27 +33,27 @@ Building intelligent systems that turn complex data into meaningful insights
 🔗 RAG & LLM systems  
 🚀 Scalable AI deployments
 
-### 💡 Interests
-🏥 Healthcare & Biomedical AI  
-🧬 Genomics & Computational Biology  
-📈 Forecasting & Decision Intelligence  
-🤖 Autonomous AI systems
+---
+# 📊 GitHub Profile Summary
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashika641/yashika641/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashika641/yashika641/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"/>
+<img src="https://raw.githubusercontent.com/yashika641/yashika641/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yashika641/yashika641/main/profile-summary-card-output/github_dark/3-stats.svg"/>
+<img src="https://raw.githubusercontent.com/yashika641/yashika641/main/profile-summary-card-output/github_dark/4-productive-time.svg"/>
+</p>
 
 ---
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;MLOps+Engineer;Bioinformatics+Researcher;GenAI+Developer;Computer+Vision+Explorer&center=true&width=550&height=50">
-</p>
-
----
----
-
-# 🤖 AI / Data Science Stack
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Bioinformatics+%7C+GenAI+%7C+MLOps;Building+Intelligent+Systems"/>
-
 </p>
 
 ---
@@ -166,6 +166,14 @@ Building intelligent systems that turn complex data into meaningful insights
 
 <img src="https://leetcard.jacoblin.cool/_Yashika_pal_?ext=activity&theme=dark" height="300"/>
 
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yashika641&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
