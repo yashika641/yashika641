@@ -46,33 +46,78 @@ Building intelligent systems that turn complex data into meaningful insights
 </p>
 
 ---
+---
 
 # 🤖 AI / Data Science Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,flask,react,next,nodejs,mongodb,docker,git,github,linux,vscode&perline=8" />
+
+<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Bioinformatics+%7C+GenAI+%7C+MLOps;Building+Intelligent+Systems"/>
+
 </p>
 
-### AI / ML
-Python • Scikit-learn • XGBoost • LightGBM • CatBoost  
-Transformers • HuggingFace • BERT • BioBERT  
+---
 
-### Deep Learning
-PyTorch • TensorFlow • CNN • RNN • LSTM  
+### 🧠 Core AI Technologies
 
-### NLP & Genomics
-spaCy • NLTK • RAG • FAISS • BLAST • NGS  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv&perline=5"/>
+</p>
 
-### MLOps
-Docker • MLflow • DVC • CI/CD • GitHub Actions  
-
-### Data Science
-Pandas • NumPy • SciPy • SHAP • LIME • A/B Testing  
-
-### Visualization
-Tableau • Power BI • Matplotlib • Seaborn  
+<p align="center">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
+</p>
 
 ---
+
+### 🧬 NLP • GenAI • Bioinformatics
+
+<p align="center">
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BERT-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BioBERT-00ACC1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-8E24AA?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ MLOps & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,fastapi,flask,linux,git,github"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-13AA52?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 Data Science & Visualization
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LIME-4CAF50?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4E79A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
+</p>
+
+------
 
 # 📊 GitHub Analytics
 
@@ -119,7 +164,7 @@ Tableau • Power BI • Matplotlib • Seaborn
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/_Yashika_pal_?ext=activity&theme=dark" height="200"/>
+<img src="https://leetcard.jacoblin.cool/_Yashika_pal_?ext=activity&theme=dark" height="300"/>
 
 </p>
 
